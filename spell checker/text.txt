@@ -1,0 +1,1 @@
+Text-based programing languages differ from visal-based (or block) progamming in that they require you to write (and understand) lines of code, rather than simply dragging and dropping blocks to create your program. The best-known, text-based coding languages, are Python, Jva, CSS/HTML, JavaScript, Swift, ant Ruby.
